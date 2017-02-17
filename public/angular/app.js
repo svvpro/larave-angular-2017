@@ -1,0 +1,1 @@
+var app = angular.module('nmc-portal', []).constant('API_URL', 'http://lar3.loc/api/');
